@@ -1,4 +1,4 @@
-# COMP605-Sentiment-Analysis-tweets
+# Sentiment-Analysis-tweets
 
 In this noteboook,we have used two of the most popular libraries for sentiment analysis on text data i.e TextBlob and Vader
 
