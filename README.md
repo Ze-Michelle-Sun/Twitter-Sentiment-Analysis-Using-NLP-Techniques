@@ -1,4 +1,4 @@
-# Sentiment-Analysis-tweets
+# Twitter Sentiment Analysis Using NLP Techniques - TextBlob And Vader
 
 In this noteboook,I have used two of the most popular libraries for sentiment analysis on text data i.e TextBlob and Vader.
 
