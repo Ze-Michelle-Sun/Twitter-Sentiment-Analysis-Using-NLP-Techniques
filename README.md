@@ -1,6 +1,6 @@
 # Sentiment-Analysis-tweets
 
-In this noteboook,I have used two of the most popular libraries for sentiment analysis on text data i.e TextBlob and Vader
+In this noteboook,I have used two of the most popular libraries for sentiment analysis on text data i.e #TextBlob and #Vader
 
 Over here, I fetched tweets of Bill Gates and Elon Musk
 
